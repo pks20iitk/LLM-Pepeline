@@ -1,0 +1,68 @@
+{
+    "frontend_pdf_url": "https://cite.case.law/pdf/435571/Mason%20v.%20Buckmaster,%201%20Ill.%2027,%201%20Breese%2027%20(1820).pdf",
+    "reporter": {
+        "url": "https://api.case.law/v1/reporters/528/",
+        "full_name": "Illinois Reports",
+        "id": 528
+    },
+    "provenance": {
+        "date_added": "2019-08-29",
+        "batch": "2018",
+        "source": "Harvard"
+    },
+    "court": {
+        "url": "https://api.case.law/v1/courts/ill/",
+        "name_abbreviation": "Ill.",
+        "slug": "ill",
+        "id": 8772,
+        "name": "Illinois Supreme Court"
+    },
+    "jurisdiction": {
+        "id": 29,
+        "name_long": "Illinois",
+        "url": "https://api.case.law/v1/jurisdictions/ill/",
+        "slug": "ill",
+        "whitelisted": true,
+        "name": "Ill."
+    },
+    "citations": [
+        {
+            "type": "nominative",
+            "cite": "1 Breese 27"
+        },
+        {
+            "type": "official",
+            "cite": "1 Ill. 27"
+        }
+    ],
+    "url": "https://api.case.law/v1/cases/435571/",
+    "name": "James Mason, Plaintiff in Error, v. N. Buckmaster, Assignee of P. Mason, Defendant in Error",
+    "cites_to": [
+        {
+            "cite": "3 Scam., 256",
+            "category": "reporters:state",
+            "reporter": "Scam.",
+            "opinion_id": 0
+        },
+        {
+            "cite": "1 Scam., 103",
+            "category": "reporters:state",
+            "reporter": "Scam.",
+            "case_ids": [
+                2480221
+            ],
+            "opinion_id": 0
+        },
+        {
+            "cite": "10 Johns., 231",
+            "category": "reporters:state",
+            "reporter": "Johns.",
+            "case_ids": [
+                2135962
+            ],
+            "opinion_id": 0
+        }
+    ],
+    "name_abbreviation": "Mason v. Buckmaster",
+    "extracted_text": "27 TERM, 1820. JULY Mason v. Buckmaster. an that the they and were horses, number of allegation no is sufficient. There is precedent of the plaintiff, property in the is in the books, which property precisely to be found A in color, this recovery as to its &c. action described, shape, in bar of a suit, for four black could be pleaded geldings, well and show them to be new-assign, unless plaintiff should the those for which this suit is other and different ones, from brought. it is that the As to the second sufficient objection, aggregate be in the horses set forth declaration. value of all the The of the court below is affirmed. judgment (1) Judgment affirmed. Assignee in Error, N. James Plaintiff v. Mason, Buckmaster, of P. Defendant in Error. Mason, ERROR TO MADISON. is writings It not to of make not under seal. required profert The give statute it writings makes for to of all as necessary plaintiff the oyer maker is to execution oath. bound their under deny a assigned assignee, In case on an note between maker and a consideration need not be averred. This was an action of assumpsit brought by Buckmaster, on a note executed James promissory Mason by to Paris and him Mason, to Buckmaster. by assigned Two objections were made by defendant in the court below, to the plaintiff\u2019s : 1. declaration That there was no profert made of the note ; declared and 2. There on was no consideration averred or stated. The court overruled these objections and gave judg- to for the reverse plaintiff, which, the ment defendant sued out a writ of and the error, same assigned objections as grounds of error. Opinion the Court. It is necessary by the common law, of to make profert of writings under seal, so as to place them in the of the court, to 'the power give opposite party if oyer and to let the court see if the deed required, is fair and honest on view. From the statute, it is necessary for the to party seal, have of not under on oyer which suit is writings brought, as he is bound to the execution of under deny them, the plea (1) taking carrying In for and a of of trespass several away quantity poultry is not to it state how there each descriptions, were of necessary many description, being the Donaghe collective of the stated. value whole v. Roudeboush,4 Munf., 251. KASKASKIA. Ooxv. McPerron. est A of the on factum, non under oath. copy writing of declaration, and is must be filed the which suit with brought, a the of the court can, of upon oyer, compel production plea so that no inconvenience can arise from the want the original, is no error then, on this of There profer\u00ed. point. (1) neces- the the court believe it is never As to second point, a a an note, to state consideration in case on assigned sary of the the maker and the The between assignee. judgment court below is affirmed, (a) (2) Judgment affirmed. McFerron, v. John Cox, Appellee. Thomas Appellant, RANDOLPH APPEAL FROM return, mortgage, equivalent a a to an of two nihilsto scire to foreclose is A facias actual service. an Ran- This was action commenced scire in the by facias a court, by circuit McFerron Cox, to foreclose dolph against executed the latter to There were by the former. mortgage not be demanded a between the (1) Oyer can of a there is variance record. If evidence, advantage may on and the one taken of declared offeredin it be record Shaw, The People, 21 plea post. a of nul tiel record. Staten v. under Giles v. Ills., 28. contract, profer\u00ed declaring upon exchange simple no is (a) In a bill of other or Chitty\u2019s Pl., a deed is 1 259. only when stated as inducement. made\u2014so creation, note, by an the a in its and indorsed In action of not void indorsee due, maker, against inquired it can be before became the the consideration not into. Arnold, 3 Rep., v. Caine\u2019s 279. Baker circulation, fraudulently put If a note has been obtained and in an action into maker, by against competent the the defendant to a indorsee it is for the show Holmes, Johns., (3) want of consideration. v. 10 231. Woodhull exchange (2) may by payee An action debt a the of be maintained on bill of drawer, against although expressed Dunlap the its face. v. no consideration be on Buckingham, 16 Ills., 109. Statutes, 773, 11, page 292, Purple\u2019s page provides, (3) Compl. Section Scales\u2019 \u201c used, any making executing fraud obtaining If or circumvention be in the or of aforesaid, any (notes bonds,) the or of instruments and such fraud circumvention may pleaded any brought any be in such instrument bar to action to be on so obtained, committing such brought by party whether such the fraud or action be circumvention, any assignees This statute assignee or or of such instrument.\u201d 1 Scam., following Hynes, a in v. has received construction the cases. Woods Scam., id., 256. Shepard, Wooldridge, 103. Adams v. 3 In all 583. Mulford v. obtaining apply only making which it was held to cases in or the of to of fraud instrument, alleged that Hynes, and not in the In v. it was consideration. Woods goods and deficient given quantity the for which the less in in note was were quality, a they represented; from what the held that that was fraud were but court it, in the consideration and making executing not in the or and was a defense not brought by purchaser to a suit an innocent without notice."
+}

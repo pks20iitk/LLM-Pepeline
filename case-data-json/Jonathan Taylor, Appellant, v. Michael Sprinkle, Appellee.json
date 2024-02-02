@@ -1,0 +1,53 @@
+{
+    "frontend_pdf_url": "https://cite.case.law/pdf/435690/Taylor%20v.%20Sprinkle,%201%20Ill.%2017,%201%20Breese%2017%20(1819).pdf",
+    "reporter": {
+        "url": "https://api.case.law/v1/reporters/528/",
+        "full_name": "Illinois Reports",
+        "id": 528
+    },
+    "provenance": {
+        "date_added": "2019-08-29",
+        "batch": "2018",
+        "source": "Harvard"
+    },
+    "court": {
+        "url": "https://api.case.law/v1/courts/ill/",
+        "name_abbreviation": "Ill.",
+        "slug": "ill",
+        "id": 8772,
+        "name": "Illinois Supreme Court"
+    },
+    "jurisdiction": {
+        "id": 29,
+        "name_long": "Illinois",
+        "url": "https://api.case.law/v1/jurisdictions/ill/",
+        "slug": "ill",
+        "whitelisted": true,
+        "name": "Ill."
+    },
+    "citations": [
+        {
+            "type": "nominative",
+            "cite": "1 Breese 17"
+        },
+        {
+            "type": "official",
+            "cite": "1 Ill. 17"
+        }
+    ],
+    "url": "https://api.case.law/v1/cases/435690/",
+    "name": "Jonathan Taylor, Appellant, v. Michael Sprinkle, Appellee",
+    "cites_to": [
+        {
+            "cite": "2 Scam., 505",
+            "category": "reporters:state",
+            "reporter": "Scam.",
+            "case_ids": [
+                2475369
+            ],
+            "opinion_id": 0
+        }
+    ],
+    "name_abbreviation": "Taylor v. Sprinkle",
+    "extracted_text": "DECISIONS OP COURT THE SUPREME OP THE ILLINOIS. OE STATE AT KASKASKIA. TERM, 1819, DECEMBER THOMAS C. Present, BROWNE, ) >Associate Justices. JOHN REYNOLDS, WILLIAM WILSON, ) Justice, absent. JOSEPH PHILIPS, Chief Jonathan v. Michael Appellee. Appellant, Taylor, Sprinkle, APPEAL FROM GALLATIN. avoiding In all to the consideration of a the manner of the note, special pleas obligation ought to a to do it is be failure error. shown; the Court.* This Opinion was an action of covenant. of The fifth states, that the consideration failed. This plea plea was demurred and the demurrer sustained to, by the court. of the fifth is the before the validity only The court. plea, point The plea was filed under the statute,\u2020 which introduces a new to the common law, and to be remedy contrary not ought extended too far; and in all the manner of special pleas, the to be shown. As the avoiding obligation ought precise manner is not shown this it is and the by insufficient, plea, demurrer to it was sustained. The of the properly judgment cent, circuit court is with five and affirmed, per damages costs. (1) Judgment affirmed. * having gave Justice Browne decided this cause in the court no below, opinion. \u2020 Laws page of 59. 1819, (1) The asserted in this case has been in numerous cases principle repeated since was made. A this decision reference to them is Corneliusv. only necessary. 3 18 KASKASKIA. Bridges. Smith v. Elijah who for the use of Smith sues William Johnson, v. William Bridges, Appellant, Appellee. APPEAL FROM MADISON. note, particular necessary yet writing to make a the Although no form is must it, undertaking engagement pay, person to and to a show an or named in or to hearer or holder of the instrument. * Opinion the Court.- The plaintiff below, states in his of that he \u201c holds notes &o.\u201d and the instrument on on, petition, a feature of a note, which suit is has not inas- brought, single as it not there was the any by much does appear undertaking at all. to any person defendant pay note, is a no form necessary to make Although particular an or undertaking the must show yet writing engagement a in bearer to and to named or to or holder of it, person pay, the court below is re- the instrument. The of judgment and the cause remanded to the court below. versed, (1) reversed. Judgment Vanorsdale, Newman, post. Pool v. Vanlandingham, id. Bradshaw v. id. Simsv. Klein, Cawood, Scammon, Vanlandingham Ryan, v. 2 505. 17 Illi- id. Swain v. nois Rep., 25. note, upon partic- of an a A plea of failure consideration to action state should ularly allegations the Parks in what failure consisted. General are not sufficient. Holmes, 22 Illinois Rep., 522. v. general competent partial it is to a of the issue not show total or failure Under Mortimer, promissory Rep., of a note. Rose v. 17 Illinois 475. consideration consideration, plea partial a of a total failure a failure can not be of Under Cawood, Scam., Klein, post. v. 2 505. Sims v. Swain given in evidence. * Reynolds cause, below, having been counsel in this in the gave Justice court opinion. no promissory is defined \u201ca (1.) promise agreement writing A note to be or in to sum, limited, demand, specified at a therein pay sight, person a time or on at toa or order, Bills, Short, or to Chitty named his or bearer.\u201d on 516. therein v. Walters Gilm., payee, 259. All notes must contain name payable 5 the of the unless to Bailey on Bills, 22. bearer. writing can be maintained on an in payment No action instrument for the of money, unless the payable. Mayo instrument shows on its face to whom it is v. Chenoweth,post. exchange promissory payable person of and made to Bills notes should be some name, specified, but this may be if inserting payee done without the the be so cer- to, specified as to tainly by allegations proofs. or referred be ascertained and al., King Rep., et al. v. et 16Ills. Adams 169. note, per- purporting promissory payable An to be a to one instrument of two alternative, Oakes, in the can not be sued on as such. Musselmanv. 19 sons Ills. Rep., 81."
+}

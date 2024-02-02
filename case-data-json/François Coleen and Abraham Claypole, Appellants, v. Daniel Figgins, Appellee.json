@@ -1,0 +1,116 @@
+{
+    "frontend_pdf_url": "https://cite.case.law/pdf/435710/Coleen%20v.%20Figgins,%201%20Ill.%2019,%201%20Breese%2019%20(1819).pdf",
+    "reporter": {
+        "url": "https://api.case.law/v1/reporters/528/",
+        "full_name": "Illinois Reports",
+        "id": 528
+    },
+    "provenance": {
+        "date_added": "2019-08-29",
+        "batch": "2018",
+        "source": "Harvard"
+    },
+    "court": {
+        "url": "https://api.case.law/v1/courts/ill/",
+        "name_abbreviation": "Ill.",
+        "slug": "ill",
+        "id": 8772,
+        "name": "Illinois Supreme Court"
+    },
+    "jurisdiction": {
+        "id": 29,
+        "name_long": "Illinois",
+        "url": "https://api.case.law/v1/jurisdictions/ill/",
+        "slug": "ill",
+        "whitelisted": true,
+        "name": "Ill."
+    },
+    "citations": [
+        {
+            "type": "nominative",
+            "cite": "1 Breese 19"
+        },
+        {
+            "type": "official",
+            "cite": "1 Ill. 19"
+        }
+    ],
+    "url": "https://api.case.law/v1/cases/435710/",
+    "name": "Fran\u00e7ois Coleen and Abraham Claypole, Appellants, v. Daniel Figgins, Appellee",
+    "cites_to": [
+        {
+            "cite": "2 Scam., 376",
+            "category": "reporters:state",
+            "reporter": "Scam.",
+            "opinion_id": 0
+        },
+        {
+            "cite": "1 Scam., 395",
+            "category": "reporters:state",
+            "reporter": "Scam.",
+            "case_ids": [
+                2481685
+            ],
+            "opinion_id": 0
+        },
+        {
+            "cite": "3 Gilm., 409",
+            "category": "reporters:state",
+            "reporter": "Gilm.",
+            "case_ids": [
+                2463143
+            ],
+            "opinion_id": 0
+        },
+        {
+            "cite": "3 Scam., 57",
+            "category": "reporters:state",
+            "reporter": "Scam.",
+            "opinion_id": 0
+        },
+        {
+            "cite": "2 Scam., 263",
+            "category": "reporters:state",
+            "reporter": "Scam.",
+            "case_ids": [
+                2475496
+            ],
+            "opinion_id": 0
+        },
+        {
+            "cite": "1 Scam., 269",
+            "category": "reporters:state",
+            "reporter": "Scam.",
+            "opinion_id": 0
+        },
+        {
+            "cite": "1 Scam., 250",
+            "category": "reporters:state",
+            "reporter": "Scam.",
+            "case_ids": [
+                2485563
+            ],
+            "opinion_id": 0
+        },
+        {
+            "cite": "9 Johns., 386",
+            "category": "reporters:state",
+            "reporter": "Johns.",
+            "case_ids": [
+                372293
+            ],
+            "opinion_id": 0
+        },
+        {
+            "cite": "3 Cranch, 496",
+            "category": "reporters:scotus_early",
+            "reporter": "Cranch,",
+            "case_ids": [
+                1427717
+            ],
+            "opinion_id": 0
+        }
+    ],
+    "name_abbreviation": "Coleen v. Figgins",
+    "extracted_text": "19 DECEMBER 1819. TERM, Figgins. and Claypole v. Coleen Amos v. Thomas Chipps, Yancey, Appellee. Appellant, APPEAL FROM POPE. The plea upon of nil debet a is not a good plea to an action of debt record. Opinion a the Court.* This an debt on was action of of judgment rendered in the State of The defend- Kentucky. ant pleaded nil debet, to which there a which demurrer, was the court sustained. To reverse this this appeal opinion, was taken. It is considered the court, that the by judgment of the court to below, demurrer, the sustaining plaintiff\u2019s costs, the defendant\u2019s plea, be affirmed with (a) (1) Judgment affirmed. Coleen Fran\u00e7ois and Abraham v. Claypole, Appellants, Daniel Figgins, Appellee. APPEAL FROM MADISON. The act of the courts, General Assembly creating circuit was approved on the 31st of March, 1819, day and on the a same writ issued out of the clerk\u2019s office of the county, circuit court of May Madison returnable to the term fol- lowing. The writ is void, as the act operation day had the April. no until 1st of Appearance can voidable, not make the good, pleading, writ that and will cure but not process. void Opinion the It appears from the record in this Court.\u2020 of cause, that court, the writ issued the Madison circuit on by the 31st day of and made returnable to March, 1819, May term and that courts, the act circuit following, creating passed on the same the writ it day issued. that the Although appears, * below, having gave Justice Wilson decided this cause in the no court opinion. plea judgment is a in an (a) brought Nil debet bad action of debt on a obtained Armstrong Carsars, exr., Dall, Duryee, 2 in another State. v. 302. Mills v. 7 Cranch, 480. a good plea a recognizance, any Nil debetis not to an action of debt on to nor Giddins, Johns., specialty. action founded on a record or Bull\u00eds v. 8 82. bond, (1) brought plea an debt a of In action of on sheriff\u2019s the nil debetis bad debt, a is'the an action nil debet on demurrer. Where bond foundation of of is a good plea. It is where the is but the inducement not otherwise instrument to al., R., Scam., King Ramsey, v. Burton et 3 v. 13 Ills. 622. the action. Davis 42. Beynolds below, having decided cause in the court gave Justice this no \u2020 opinion. KASKASKIA. 20 Claypole Biggins. Coleen and v. of March, on 31st courts, day act circuit the establishing passed did effect that it not take the court are of yet clearly opinion, and is therefore until the of that the day April, process first writ, and make had no to issue the void, as the clerk authority a in at time the writ existence, it to court not the returnable the The court good. issued. No could make writ appearance materially, it, it differing below was bound to have quashed and that is voidable from merely, where appearing process cure the defect. pleading might other error It is for the court, to notice any unnecessary the case. decided, as the determines point already assigned, reversed, of is The the court (a) (1) judgment reversed. Judgment Kane, for appellants. Winchester, for appellee. any irregu- by attorney, of defendant antecedent appearance the cures (a) An al., Cranch, al. v. 3 496. process. Knox et Summerset larity of void, term Cramer v. returnable out of is and can not be amended. Process Alstyne, 9 Johns., 386. Van as hardly appearance a that cures all defects to can admit of doubt an (1) It process, party brought party, a is a in which into court. If without the manner action, process was say is late issued or an it too for him then to that no to pleads court, appears in in it is he com- him. He is then and immaterial whether served on law, right might a he the of the or whether he waives which mandates with pliance on, voluntarily position in which he is places and himself in a have insisted question In bis defense. The decisions on this are uniform. required to make \u201c Altum, 1 Scam., 250, said: The authorities numer- al. v. the court are Easton et process be explicit, irregularity process, whether the void or void- that of ous and objection.\u201d al., able, in Mitchellv. Jacobs et by appearance without And is cured appearing objection waives all objec- Rep., : \u201cA defendant without 236 17 Ills. void, thereto, have although may may be there been the process or no tions Keep, 22 Rep., is Point R. v. Ills. To same effect Mineral R. Co. the service.\u201d passed upon by the Supreme also been of following cases have Court 9. The arose, State, question substantially which this and received the in each of this Swan, Scam., Funk, v. 1 269. al. v. 2 et al. Vance et Pearce same solution. Scam., id., Logan, et al. 463. 3 Scam., al. v. James et Palmer v. 263. Beecher Rouse, adm\u2019r., 3 Gilm., 409. al. v. Murray et v. et heirs Whittaker Bowles\u2019 57. R., al., 294. 15 Ills. all irregularities the general appearance issuing will cure as to or Although a purpose objecting process yet an appearance for the of to such of process, service al., R., et 17 have effect. Mitchell v. Jacobs Ills. 236. will that service not or al., Scam., Scam., et 2 Nott, 395. Little v. Carlisle 376. 1 Anglin v."
+}

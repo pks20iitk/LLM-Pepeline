@@ -1,0 +1,54 @@
+{
+    "frontend_pdf_url": "https://cite.case.law/pdf/435701/Beaumont%20v.%20Yantz,%201%20Ill.%2026,%201%20Breese%2026%20(1820).pdf",
+    "reporter": {
+        "url": "https://api.case.law/v1/reporters/528/",
+        "full_name": "Illinois Reports",
+        "id": 528
+    },
+    "provenance": {
+        "date_added": "2019-08-29",
+        "batch": "2018",
+        "source": "Harvard"
+    },
+    "court": {
+        "url": "https://api.case.law/v1/courts/ill/",
+        "name_abbreviation": "Ill.",
+        "slug": "ill",
+        "id": 8772,
+        "name": "Illinois Supreme Court"
+    },
+    "jurisdiction": {
+        "id": 29,
+        "name_long": "Illinois",
+        "url": "https://api.case.law/v1/jurisdictions/ill/",
+        "slug": "ill",
+        "whitelisted": true,
+        "name": "Ill."
+    },
+    "citations": [
+        {
+            "type": "nominative",
+            "cite": "1 Breese 26"
+        },
+        {
+            "type": "official",
+            "cite": "1 Ill. 26"
+        }
+    ],
+    "url": "https://api.case.law/v1/cases/435701/",
+    "name": "James S. Beaumont, Appellant, v. - Yantz, Appellee",
+    "cites_to": [
+        {
+            "cite": "4 Munf., 251",
+            "category": "reporters:state",
+            "reporter": "Munf.",
+            "case_ids": [
+                4442804,
+                4442574
+            ],
+            "opinion_id": 0
+        }
+    ],
+    "name_abbreviation": "Beaumont v. Yantz",
+    "extracted_text": "26 KASKASKIA. Beaumont v. Yantz. of only, the ters form defendant for reason, and is that as not, course, a matter of entitled to a continuance. He has how- the to de ever, plead novo. the right The court of judgment must affirmed. below be (1) Judgment affirmed. S. James Beaumont, Appellant, v. - Yantz, Appellee. APPEAL FROM MONROE. trespass A declaration in an action taking conveying away of for and \u201cfour horses, the property of the plaintiff,\u201d sufficiently descriptive is certain and of the property taken. This was an action of trespass de bonis asportatis, brought Yantz in by against Beaumont the court and below, for taking \u201c four conveying away horses, the and chat- property, goods tels of the plaintiff, of the value of three dollars.\u201d hundred The defendant demurred to the and as declaration, assigned causes of 1. demurrer, That the horses were described not with sufficient and 2. That particularity; the value of each horse should have been stated in the declaration. The de- murrer was overruled, and an taken to this court. appeal Opinion the Court. The cases cited by the appellant\u2019s of counsel, do not apply to this case. It is that not necessary each horse should be the particularly Mentioning described. (1.) The doctrine is well that an of a settled amendment mere formal matter continuance, not a party will entitle to a while an amendment in will substance a being by party. work continuance without shown opposite cause therefor the Stuart, Marks, Scam., post. Rountreev. Covell et al. v. 1 525. Russell et al. v. Martin, Scam., Lasater, Scam., 2 493. v. 4 548. Fire Webb Ills. Marine In- & Co., Gilm., surance Co.v. Manufacturing Lands, Marseilles 1 236. Hanks v. 3 Gilm., al., Ills., 227. O. M. R. R. Co. et 22. v. Palmer 18 & may trial, against rules, Courts the positive allow amendments on if not to secure the ends of justice, if party thereby by the is opposite surprise; not taken if so, a may Ills., continuance be Miller Metzger, 16 allowed. v. 390. It is not error to permit errors to be amended Hargrave clerical on trial. v. Penrod, post. the foregoing prepared, a Supreme Since note was decision of the Court has \u201c been published they following language. By in which use the the uniform rule practice, permit declaration, of the has no power to an amendment of the court in substance, granting by a matter of a if defendant; without continuance desired the verdict, has any power, permit substance, the to of nor court after amendments upon costs, except verdict, payment setting the aside the and granting terms of of made, a new trial. is essentially a Where such amendment it becomes new declsr- ration, right prepare which al. the party has a to defend.\u201d Brown et v. to Smith 196, al., Ills., et 24 27 TERM, 1820. JULY Mason v. Buckmaster. an that the they and were horses, number of allegation no is sufficient. There is precedent of the plaintiff, property in the is in the books, which property precisely to be found A in color, this recovery as to its &c. action described, shape, in bar of a suit, for four black could be pleaded geldings, well and show them to be new-assign, unless plaintiff should the those for which this suit is other and different ones, from brought. it is that the As to the second sufficient objection, aggregate be in the horses set forth declaration. value of all the The of the court below is affirmed. judgment (1) Judgment affirmed. Assignee in Error, N. James Plaintiff v. Mason, Buckmaster, of P. Defendant in Error. Mason, ERROR TO MADISON. is writings It not to of make not under seal. required profert The give statute it writings makes for to of all as necessary plaintiff the oyer maker is to execution oath. bound their under deny a assigned assignee, In case on an note between maker and a consideration need not be averred. This was an action of assumpsit brought by Buckmaster, on a note executed James promissory Mason by to Paris and him Mason, to Buckmaster. by assigned Two objections were made by defendant in the court below, to the plaintiff\u2019s : 1. declaration That there was no profert made of the note ; declared and 2. There on was no consideration averred or stated. The court overruled these objections and gave judg- to for the reverse plaintiff, which, the ment defendant sued out a writ of and the error, same assigned objections as grounds of error. Opinion the Court. It is necessary by the common law, of to make profert of writings under seal, so as to place them in the of the court, to 'the power give opposite party if oyer and to let the court see if the deed required, is fair and honest on view. From the statute, it is necessary for the to party seal, have of not under on oyer which suit is writings brought, as he is bound to the execution of under deny them, the plea (1) taking carrying In for and a of of trespass several away quantity poultry is not to it state how there each descriptions, were of necessary many description, being the Donaghe collective of the stated. value whole v. Roudeboush,4 Munf., 251."
+}

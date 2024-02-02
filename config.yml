@@ -1,0 +1,9 @@
+  output_dir: C:\Project\LLM-Pepeline\my_docs
+  input_dir: C:\Project\LLM-Pepeline\case-data-pdf
+  weaviate_url: http://localhost:8080
+  embedding_model_name: BAAI/bge-large-en
+  topic_page_url: https://api.case.law/v1/cases/?search=Healthcare+case+&format=json&full_case=true&page_size=5
+  model_path: C:\Project\Haystack-and-Mistral-7B-RAG-Implementation\local-rag\model_files\llama-2-7b-chat.Q4_K_M.gguf
+  api_url: https://api.case.law/v1/cases/?search=Healthcare+case+&format=json&full_case=true
+  device: cpu
+  number_of_case_document: 10

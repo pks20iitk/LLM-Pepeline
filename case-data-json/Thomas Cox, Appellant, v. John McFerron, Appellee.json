@@ -1,0 +1,59 @@
+{
+    "frontend_pdf_url": "https://cite.case.law/pdf/435689/Cox%20v.%20McFerron,%201%20Ill.%2028,%201%20Breese%2028%20(1820).pdf",
+    "reporter": {
+        "url": "https://api.case.law/v1/reporters/528/",
+        "full_name": "Illinois Reports",
+        "id": 528
+    },
+    "provenance": {
+        "date_added": "2019-08-29",
+        "batch": "2018",
+        "source": "Harvard"
+    },
+    "court": {
+        "url": "https://api.case.law/v1/courts/ill/",
+        "name_abbreviation": "Ill.",
+        "slug": "ill",
+        "id": 8772,
+        "name": "Illinois Supreme Court"
+    },
+    "jurisdiction": {
+        "id": 29,
+        "name_long": "Illinois",
+        "url": "https://api.case.law/v1/jurisdictions/ill/",
+        "slug": "ill",
+        "whitelisted": true,
+        "name": "Ill."
+    },
+    "citations": [
+        {
+            "type": "nominative",
+            "cite": "1 Breese 28"
+        },
+        {
+            "type": "official",
+            "cite": "1 Ill. 28"
+        }
+    ],
+    "url": "https://api.case.law/v1/cases/435689/",
+    "name": "Thomas Cox, Appellant, v. John McFerron, Appellee",
+    "cites_to": [
+        {
+            "cite": "3 Gilm., 327",
+            "category": "reporters:state",
+            "reporter": "Gilm.",
+            "case_ids": [
+                2462872
+            ],
+            "opinion_id": 0
+        },
+        {
+            "cite": "2 Gilm., 306",
+            "category": "reporters:state",
+            "reporter": "Gilm.",
+            "opinion_id": 0
+        }
+    ],
+    "name_abbreviation": "Cox v. McFerron",
+    "extracted_text": "KASKASKIA. Ooxv. McPerron. est A of the on factum, non under oath. copy writing of declaration, and is must be filed the which suit with brought, a the of the court can, of upon oyer, compel production plea so that no inconvenience can arise from the want the original, is no error then, on this of There profer\u00ed. point. (1) neces- the the court believe it is never As to second point, a a an note, to state consideration in case on assigned sary of the the maker and the The between assignee. judgment court below is affirmed, (a) (2) Judgment affirmed. McFerron, v. John Cox, Appellee. Thomas Appellant, RANDOLPH APPEAL FROM return, mortgage, equivalent a a to an of two nihilsto scire to foreclose is A facias actual service. an Ran- This was action commenced scire in the by facias a court, by circuit McFerron Cox, to foreclose dolph against executed the latter to There were by the former. mortgage not be demanded a between the (1) Oyer can of a there is variance record. If evidence, advantage may on and the one taken of declared offeredin it be record Shaw, The People, 21 plea post. a of nul tiel record. Staten v. under Giles v. Ills., 28. contract, profer\u00ed declaring upon exchange simple no is (a) In a bill of other or Chitty\u2019s Pl., a deed is 1 259. only when stated as inducement. made\u2014so creation, note, by an the a in its and indorsed In action of not void indorsee due, maker, against inquired it can be before became the the consideration not into. Arnold, 3 Rep., v. Caine\u2019s 279. Baker circulation, fraudulently put If a note has been obtained and in an action into maker, by against competent the the defendant to a indorsee it is for the show Holmes, Johns., (3) want of consideration. v. 10 231. Woodhull exchange (2) may by payee An action debt a the of be maintained on bill of drawer, against although expressed Dunlap the its face. v. no consideration be on Buckingham, 16 Ills., 109. Statutes, 773, 11, page 292, Purple\u2019s page provides, (3) Compl. Section Scales\u2019 \u201c used, any making executing fraud obtaining If or circumvention be in the or of aforesaid, any (notes bonds,) the or of instruments and such fraud circumvention may pleaded any brought any be in such instrument bar to action to be on so obtained, committing such brought by party whether such the fraud or action be circumvention, any assignees This statute assignee or or of such instrument.\u201d 1 Scam., following Hynes, a in v. has received construction the cases. Woods Scam., id., 256. Shepard, Wooldridge, 103. Adams v. 3 In all 583. Mulford v. obtaining apply only making which it was held to cases in or the of to of fraud instrument, alleged that Hynes, and not in the In v. it was consideration. Woods goods and deficient given quantity the for which the less in in note was were quality, a they represented; from what the held that that was fraud were but court it, in the consideration and making executing not in the or and was a defense not brought by purchaser to a suit an innocent without notice. TERM, 1820. JULY Cox v. MclTerron. on motion returned, gave nihils which, the court two upon was, the The made whether for McFerron. point judgment to nihils a scire was the equivalent return of on two facias defendant can be person- of when the actual service process, served. ally law, It the common the Court. that Opinion by appears, of on in the same man- of scire were all writs proceeded facias nihils; this discretionary with the of two was ner return by Our statute gives this writ to the party issuing the process. the doubt, writ, in the all attri- and, the no giving mortgagee, also. It law, that to it at common were given butes belonged and the common have a law operation, possess is to common incidents. law is equiva- are that the return of nihils, We of two opinion a and the court to service, lent to authorized render judgment has The as in cases there been an actual service. judg- where ment is therefore affirmed. (1) Judgment affirmed. (1) the statute has remedies writ of scire or When summons by facias, provided a which the in the nature scire were unknown to common law, and of facias, the same be' like which are of a character must executed merely, personal any the ordinary process\u2014by personal parties. Davis, other service on McCourtie v. 2 306. Gilm., recognizance, case of a Two in scire or are sufficient nihils, record, upon facias cognizors, give of the of the and to to the court authorize persons Jurisdiction Choate v. The 19 63. The judgment of execution. Ills. Sans v. Peo- R., People, Ills. 3 Besimer v. The 15 440. Gilm., 327. R., ple, People,"
+}
